@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aricame/static/css/main.073c9b0a.css",
+    "main.js": "/aricame/static/js/main.b9af2d10.js",
+    "static/js/787.6a5fa517.chunk.js": "/aricame/static/js/787.6a5fa517.chunk.js",
+    "static/media/logo.svg": "/aricame/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aricame/index.html",
+    "main.073c9b0a.css.map": "/aricame/static/css/main.073c9b0a.css.map",
+    "main.b9af2d10.js.map": "/aricame/static/js/main.b9af2d10.js.map",
+    "787.6a5fa517.chunk.js.map": "/aricame/static/js/787.6a5fa517.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b9af2d10.js"
+  ]
+}
